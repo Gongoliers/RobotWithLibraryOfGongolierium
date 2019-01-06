@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "LibraryOfGongolierium",
+                "projectName": "LibraryOfGongolierium",
+                "workingDirectory": "/home/kyle/Downloads/wpilib/LibraryOfGongolierium",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "LibraryOfGongolierium",
+                "projectName": "LibraryOfGongolierium",
+                "workingDirectory": "/home/kyle/Downloads/wpilib/LibraryOfGongolierium",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
